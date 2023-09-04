@@ -5,6 +5,7 @@ A Faraday disk built to learn about electromagnetism and early generators.
 <a href="images/cad.png">
   <img src="images/cad.png" alt="cad" width="40%" height="40%"/>
 </a>
+<br>
 <a href="images/built.jpg">
   <img src="images/built.jpg" alt="built" width="40%" height="40%"/>
 </a>
@@ -27,7 +28,9 @@ and the effects of eddy currents.
 - 6mm axle, ~120mm
 - 6mm axle, ~180mm
 - Stranded wire for brushes
-- 40x20mm neodymium magnets (x2)
+- 40x20mm neodymium magnets (x2) ([amazon](https://www.amazon.com/dp/B095SDDZ92))
+- Copper foil (for continuity between disk and axle)
+- 150mm copper disk ([amazon](https://www.amazon.com/dp/B0BNDM489N))
 - 3D printed parts
   - [cad/axle-2-support.stl](cad/axle-2-support.stl)
   - [cad/axle-cap](cad/axle-cap.stl) (x2)
