@@ -82,6 +82,10 @@ due to the magnetic field changes.
 
 ### Induced EMF in Faraday Disk
 
+![images/diagram-1.jpg](images/diagram-1.jpg)
+
+![images/diagram-2.jpg](images/diagram-2.jpg)
+
 Given the integral form of Maxwell-Faraday equation,
 
 $$\oint_C\vec{E}\cdot\vec{dl}=-\frac{d}{dt}\iint_S\vec{B}\cdot\vec{dA}$$
